@@ -1,0 +1,14 @@
+cd trading-journal/backend
+npm init -y
+npm install express cors multer sqlite3
+node server.js
+
+
+
+cd trading-journal/frontend
+npm install
+npm run dev
+
+
+Open browser at http://localhost:5173
+
